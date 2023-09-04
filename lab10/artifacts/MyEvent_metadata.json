@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "ZeroAddressInputted",
+				"type": "event"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"lab10/EventEx2.sol": "MyEvent"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"lab10/EventEx2.sol": {
+			"keccak256": "0x83742993e8b33713868c89cf198d6fd5377688b22e639874a172e44483a1c693",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://68a9116dcb3d0a0023e3707d58f19ace701eae537f367aee7f5199db542cc611",
+				"dweb:/ipfs/QmZ8UW79AseNPLLA13FMiN55g1vnqeqzDRyFgag6fxFvvj"
+			]
+		}
+	},
+	"version": 1
+}
